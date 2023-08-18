@@ -1,6 +1,7 @@
 {
 	"countries": [{
 		"name": "Andorra",
+		"country_code": 122,
 		"channels": [{
 			"name": "Andorra TV",
 			"slug": "AndorraTV.ad",
