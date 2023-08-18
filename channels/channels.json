@@ -1,14 +1,10 @@
 {
-  "countries": [
-    {
-      "name": "Andorra",
-      "channels": [
-        {
-         "name": "Andorra TV",
-         "slug": "AndorraTV.ad",
-         "channel_id": 1,
-        },
-      ],
-    },
-  ],
-} 
+	"countries": [{
+		"name": "Andorra",
+		"channels": [{
+			"name": "Andorra TV",
+			"slug": "AndorraTV.ad",
+			"channel_id": 1
+		}]
+	}]
+}
